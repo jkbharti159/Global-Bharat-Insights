@@ -1,0 +1,6 @@
+{
+  "name": "Global Bharat Insights",
+  "description": "Clean, responsive daily news analyzer providing critical political, economic, climate, and tech insights for Global and Indian events from trusted media outlets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
